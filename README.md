@@ -3,8 +3,7 @@
 **Kelte:** Budapest, 2026. április 15.
 **Kiadó:** Fehér-Liget Ingatlanhasznosító Kft.
 
-> **Átirat állapota:** az 1., 2., 3., 4. és 6. oldal beolvasva fényképről.
-> Az **5. oldal még hiányzik** — helye a dokumentumban jelölve.
+> **Átirat állapota:** teljes — mind a 6 oldal beolvasva fényképről.
 > Az átirat szó szerinti; az eredetiben található elírásokat meghagytam, ezek listája a dokumentum végén.
 
 ---
@@ -22,8 +21,9 @@
 9. [A lakóépület tisztán tartása](#9-a-lakóépület-tisztán-tartása)
 10. [Kizárólagos használatban lévő területek](#10-kizárólagos-használatban-lévő-területek)
 11. [Teremgarázs használata](#11-teremgarázs-használata)
-12. [Állattartásra vonatkozó szabályok](#12-állattartásra-vonatkozó-szabályok) — *hiányzó 5. oldal*
-13. *(ismeretlen fejezet — hiányzó 5. oldal, feltehetően a felvonó használata)*
+12. [Állattartásra vonatkozó szabályok](#12-állattartásra-vonatkozó-szabályok)
+    - [Kutyafuttató használata](#kutyafuttató-használata)
+13. [Felvonó használat](#13-felvonó-használat)
 14. [Kamera használat](#14-kamera-használat)
 
 ---
@@ -215,17 +215,61 @@ Az esetleges későbbi időpontban (22 óra után) is zajló baráti, családi �
 
 ## 12. ÁLLATTARTÁSRA VONATKOZÓ SZABÁLYOK
 
----
+*[5. oldal]*
 
-> ### ⬜ (… ide jön az 5. oldal …)
->
-> **Hiányzó tartalom:** a 12. fejezet (Állattartásra vonatkozó szabályok) teljes szövege,
-> a 13. fejezet (címe egyelőre ismeretlen — a 6. oldal szövegkezdete alapján feltehetően
-> a **felvonó / lift használatáról** szól), valamint a 6. oldalon folytatódó bekezdés kezdete.
->
-> *Pótlásra vár: a hiányzó lap fotója.*
+**12.1.** A tulajdonostársak rögzítik, hogy az állattartásról az illetékes önkormányzat külön rendeletet alkothat, amely rendelkezéseit a tulajdonostársaknak be kell tartaniuk. A rendelet és a jelen SZMSZ rendelkezései közül a szigorúbbat kell alkalmazni.
 
----
+**12.2.** A társasházi közös tulajdonban lévő területeken és helyiségekben háziállat nem tartható, még a közös tulajdon részét képező kertben sem engedhető szabadon, sétáltatása és egészségügyi szükségletei elvégzésének megengedése tilos. Az esetleges szennyeződést az állat tulajdonosa köteles azonnal eltávolítani, a szennyezett terület fertőtlenítéséről köteles gondoskodni, ennek hiányában a takarítás és a fertőtlenítés költségét a Társasház részére megfizetni.
+
+**12.3.** Háziállat tartása **csak a lakáson belül** megengedett, háziállat méretétől és fajtájától függetlenül nem helyezhető el a kizárólagos használatú kertrészeken.
+
+**12.4.** Kutyát vagy macskát csak úgy lehet tartani, hogy jelenléte (csaholása, stb.) mások nyugalmát ne zavarja. **Lakásonként maximum 2 kutya vagy macska tartható. Kizárólag kis testű kutyafajták** (pl. francia buldog; mopsz; skót terrier; cocker spániel; tacskó; törpe uszkár) tarthatók.
+
+**12.5.** Emberre veszélyes hüllő és ízeltlábú, melegvérű ragadozó, valamint erős hangon kommunikáló madár (pl. óriáspapagáj) nem tartható.
+
+**12.6.** Kutyát a hatályos jogszabályok rendelkezéseknek megfelelően pórázon, szájkosárral lehet a lépcsőházban, udvaron elvezetni az utcára; macskát vagy más állatot kizárólag zárt hordozóban lehet szállítani. Háziállat szükségleteinek elvégzése a Társasház egész területén tilos, így háziállatok szükségleteinek elvégzésére a kizárólagos használatban álló gépkocsi-beállók, sem pedig a közös használatú kertek nem használhatók.
+
+**12.7.** A fenti szabályok valamennyi használóra vonatkoznak; nem tulajdonostárs általi szabályszegés és károkozás esetén az érintett tulajdonostárs (akinek jogán az érintett szabályszegő vagy károkozó személy a Társasházban tartózkodik) köteles a Társasház felé a szabályszegő vagy károkozó személy helytállni.
+
+### Kutyafuttató használata.
+
+**12.8.** A futtatót mindenki saját felelősségére használhatja.
+
+**12.9.** A kutyafuttató területén kizárólag kis testű kutya engedhető be.
+
+**12.10.** A kutyafuttató használati ideje: **08.00 – 20.00 óra.** Azon kívül a kutyafuttató használni TILOS.
+
+**12.11.** A társasház területén kijelölt kutyafuttató rendeltetésszerű használata minden lakó számára biztosított, az alábbi szabályok betartása mellett:
+
+**12.12.** A kutyafuttatót kizárólag egészséges, oltott, féregtelenített, azonosítóval (pl. chippel) ellátott kutyák használhatják. Fertőző betegség vagy tüzelés esetén a látogatás szigorúan tilos!
+
+**12.13.** A kutyákat a futtató területére történő be- és kilépéskor pórázon kell vezetni.
+
+**12.14.** A kaput minden esetben be kell zárni (belépéskor és távozáskor is), hogy megakadályozzuk az ebek kiszökését.
+
+**12.15.** A gazda köteles folyamatos felügyeletet biztosítani, és felelősséget vállalni a kutyája viselkedéséért.
+
+**12.16.** A kutyák által okozott szennyeződést a gazda haladéktalanul köteles eltávolítani. Ezek gyűjtésére kizárólag a kijelölt kutyapiszok gyűjtők alkalmazhatók.
+
+**12.17.** A futtató területén agresszív viselkedést tanúsító kutya nem tartózkodhat; ilyen esetben a gazda köteles az állatot azonnal eltávolítani.
+
+**12.18.** A kutyafuttató használata során kerülni kell minden olyan magatartást, amely más lakók nyugalmát zavarja vagy balesetveszélyt okozhat.
+
+**12.19.** 14 éven aluli gyermekek a futtató területén kizárólag felnőtt felügyelete mellett tartózkodhatnak.
+
+**12.20.** A kutyafuttató területén az eb nem etethető.
+
+**12.21.** A kutyafuttató területén és annak 5 méteres körzetében TILOS alkoholt és egyéb bódultságot okozó szert fogyasztani, TILOS dohányozni, TILOS tüzet gyújtani, TILOS szúró-, vagy vágóeszközt behozni, TILOS tűz- és balesetveszélyes, illetve üvegtárgyakat behozni, TILOS szemetelni.
+
+**12.22.** A kutyák által ásott gödröket a gazda köteles távozáskor haladéktalanul betemetni.
+
+**12.23.** A kutya által okozott bármilyen kárért (anyagi kár vagy személyi/állati sérülés) a kutya tartója büntetőjogi és anyagi felelősséggel tartozik.
+
+**12.24.** A fenti szabályok megszegése a házirend megsértésének minősül, és a társasház közös képviselete jogosult a szükséges intézkedések megtételére.
+
+## 13. FELVONÓ HASZNÁLAT
+
+A felvonót csak rendeltetésszerűen szabad használni. A felvonó épsége és használhatósága érdekében mindenki (tulajdonostárs, bérlő, vendég) köteles betartani az erre vonatkozó szabályokat. Mindenki, aki a
 
 *[6. oldal]*
 
@@ -277,8 +321,11 @@ Képv.: Bal… ügyvezető önállóan
 | 11.3 | teremgarázsába | teremgarázsba |
 | 11.8 | „Töltőberendezést kizárólag villanyszerelő képesítésű szakember végezheti" | vsz. hiányzik: „…telepítését…" |
 | 8.4 | „további a zajt okozó" | továbbá |
+| 12.6 | „a hatályos jogszabályok rendelkezéseknek megfelelően" | jogszabályok rendelkezéseinek |
+| 12.7 | „köteles a Társasház felé a szabályszegő vagy károkozó személy helytállni" | személyért helytállni |
+| 12.10 | „a kutyafuttató használni TILOS" | kutyafuttatót |
 | 14. | „a melynek tartalmaznia kell" | amelynek |
 
 **Visszaellenőrzésre javasolt:** a **11.7** pont szórendje — a fotón az érintett sorok részben átfedésben / meggörbülve látszanak.
 
-**Hiányzó:** az **5. oldal** (12. fejezet szövege + 13. fejezet).
+**Számozási furcsaság az eredetiben:** a 12.11. pont felvezeti az „alábbi szabályokat", de azok nem alpontként, hanem önálló 12.12.–12.24. pontokként folytatódnak.
